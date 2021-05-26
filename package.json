@@ -8,8 +8,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bin": {
-    "mihir": "main.js"
-  },
   "description": ""
 }
